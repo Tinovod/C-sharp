@@ -1,0 +1,15 @@
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\bin\Debug\net6.0\005Privet.exe
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\bin\Debug\net6.0\005Privet.deps.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\bin\Debug\net6.0\005Privet.runtimeconfig.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\bin\Debug\net6.0\005Privet.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\bin\Debug\net6.0\005Privet.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.csproj.AssemblyReference.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.AssemblyInfoInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.AssemblyInfo.cs
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.csproj.CoreCompileInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\refint\005Privet.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\005Privet.genruntimeconfig.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\005Privet\obj\Debug\net6.0\ref\005Privet.dll
