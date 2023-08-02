@@ -1,0 +1,15 @@
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\bin\Debug\net6.0\003summ.exe
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\bin\Debug\net6.0\003summ.deps.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\bin\Debug\net6.0\003summ.runtimeconfig.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\bin\Debug\net6.0\003summ.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\bin\Debug\net6.0\003summ.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.csproj.AssemblyReference.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.AssemblyInfoInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.AssemblyInfo.cs
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.csproj.CoreCompileInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\refint\003summ.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\003summ.genruntimeconfig.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\003summ\obj\Debug\net6.0\ref\003summ.dll
