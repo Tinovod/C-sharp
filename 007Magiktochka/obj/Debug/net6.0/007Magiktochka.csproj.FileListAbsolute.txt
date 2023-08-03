@@ -1,0 +1,15 @@
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\bin\Debug\net6.0\007Magiktochka.exe
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\bin\Debug\net6.0\007Magiktochka.deps.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\bin\Debug\net6.0\007Magiktochka.runtimeconfig.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\bin\Debug\net6.0\007Magiktochka.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\bin\Debug\net6.0\007Magiktochka.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.csproj.AssemblyReference.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.AssemblyInfoInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.AssemblyInfo.cs
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.csproj.CoreCompileInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\refint\007Magiktochka.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\007Magiktochka.genruntimeconfig.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\007Magiktochka\obj\Debug\net6.0\ref\007Magiktochka.dll
