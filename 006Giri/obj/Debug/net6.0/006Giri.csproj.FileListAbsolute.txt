@@ -1,0 +1,15 @@
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\bin\Debug\net6.0\006Giri.exe
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\bin\Debug\net6.0\006Giri.deps.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\bin\Debug\net6.0\006Giri.runtimeconfig.json
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\bin\Debug\net6.0\006Giri.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\bin\Debug\net6.0\006Giri.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.csproj.AssemblyReference.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.AssemblyInfoInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.AssemblyInfo.cs
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.csproj.CoreCompileInputs.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\refint\006Giri.dll
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.pdb
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\006Giri.genruntimeconfig.cache
+C:\Users\kotel\OneDrive\Рабочий стол\c#\Examples\006Giri\obj\Debug\net6.0\ref\006Giri.dll
